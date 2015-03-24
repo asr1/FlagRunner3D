@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{087A27C3-5033-D475-D220-90CE1C115FDE}") = "Flagrunner3D", "Assembly-CSharp-vs.csproj", "{588EC01C-38C4-3587-F137-284845A5D353}"
+Project("{3F670266-D65D-F22D-61F5-2BC447805054}") = "FlagRunner3D", "Assembly-CSharp-vs.csproj", "{07D2034E-D1D5-341A-E530-DCEAE5F6B70D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{588EC01C-38C4-3587-F137-284845A5D353}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{588EC01C-38C4-3587-F137-284845A5D353}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{588EC01C-38C4-3587-F137-284845A5D353}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{588EC01C-38C4-3587-F137-284845A5D353}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07D2034E-D1D5-341A-E530-DCEAE5F6B70D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07D2034E-D1D5-341A-E530-DCEAE5F6B70D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07D2034E-D1D5-341A-E530-DCEAE5F6B70D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07D2034E-D1D5-341A-E530-DCEAE5F6B70D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																					GlobalSection(MonoDevelopProperties) = preSolution
+																						GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
