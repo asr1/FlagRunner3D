@@ -36,7 +36,7 @@ public class GameManager : MonoBehaviour
         mazeInstance.FastGenerate();
         playerInstance = Instantiate(playerPrefab) as Player;
         playerInstance.SetLocation(mazeInstance.GetCell(mazeInstance.RandomCoordinates));
-     //   playerInstance.transform.position += Vector3.up * 1;
+		//playerInstance.transform.position -= new Vector3(0f, .1f, 0f);
         //Make a mini-map
         Camera.main.clearFlags = CameraClearFlags.Depth;
         Camera.main.rect = new Rect(0f, 0f, .5f, .5f);
