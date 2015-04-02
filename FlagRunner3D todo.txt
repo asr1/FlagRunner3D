@@ -1,0 +1,27 @@
+float yMove = Input.GetAxisRaw (axis);
+	
+GetComponent<Rigidbody2D> ().velocity = new Vector2 (0, yMove * speed);
+
+
+
+
+TODO 
+
+figure out how to randomly place player slightly above a tile.
+
+Remove array references. (done?)
+
+add coliders to the walls including cracked walls so we can't walk thorugh them
+change movement to be solely vector based. (done?)
+
+Remove Mini map
+
+Make all outer walls not cracked
+
+Split scree, two players
+
+add a pause menu.
+
+add a weapon
+
+Pick up items with coliders and triggers.
